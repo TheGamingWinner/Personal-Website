@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WebPConvert\Convert\Converters\BaseTraits\AutoQualityTrait&quot; not found in <b>D:\code\xampp2.0\htdocs\Personal Website\wp-content\plugins\wp-optimize\vendor\rosell-dk\webp-convert\src\Convert\Converters\AbstractConverter.php</b> on line <b>26</b><br>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Akkhil&#039;S Coding HUB</title>
+	<atom:link href="https://thegamingwinner.github.io/Personal-Website/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thegamingwinner.github.io/Personal-Website</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Dec 2023 13:39:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>My First Post</title>
+		<link>https://thegamingwinner.github.io/Personal-Website/index.php/2023/12/13/hello-world/</link>
+					<comments>https://thegamingwinner.github.io/Personal-Website/index.php/2023/12/13/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Akkhil]]></dc:creator>
+		<pubDate>Wed, 13 Dec 2023 08:12:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://thegamingwinner.github.io/Personal-Website/?p=1</guid>
+
+					<description><![CDATA[Hey there this is my first post to my website]]></description>
+										<content:encoded><![CDATA[
+<p>Hey there this is my first post to my website</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thegamingwinner.github.io/Personal-Website/index.php/2023/12/13/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
